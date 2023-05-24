@@ -1,0 +1,14 @@
+﻿{
+  "Id": "YmMHHF9i80-8Bv9ofxQQ8A",
+  "Reference": "6xAdQFbn402sKoX_Ga7N7w/YmMHHF9i80-8Bv9ofxQQ8A",
+  "ParentRef": "6xAdQFbn402sKoX_Ga7N7w/rPDVR3KJfE6Lnxe_Rec2_Q",
+  "Name": "Get Text '109.02'",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2023-05-10T14:51:38.700724Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T14:51:38.700724Z"
+}

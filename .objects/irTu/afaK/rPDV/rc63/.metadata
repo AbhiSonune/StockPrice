@@ -1,0 +1,14 @@
+﻿{
+  "Id": "rc63f2qwA0-NTovOpOzD7w",
+  "Reference": "6xAdQFbn402sKoX_Ga7N7w/rc63f2qwA0-NTovOpOzD7w",
+  "ParentRef": "6xAdQFbn402sKoX_Ga7N7w/rPDVR3KJfE6Lnxe_Rec2_Q",
+  "Name": "Type Into 'combo box'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2023-05-10T14:48:23.0934891Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.4.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-05-10T14:48:23.0934891Z"
+}

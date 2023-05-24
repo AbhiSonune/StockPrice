@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kZyMZT-Na0aSQtpxIRdPfQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/search?q=amazon+stock+price&amp;oq=Amazon+Stock+Price&amp;aqs=chrome.0.35i39i285i650j0i20i131i263i433i512j0i512l2j0i67i433i650j0i512l5.21859j1j15&amp;sourceid=chrome&amp;ie=UTF-8" CvType="AnyWordGroup" DesignTimeRectangle="253, 601, 137, 56" DesignTimeScaleFactor="1.25" ElementType="Text" FriendlyName="'109.02'" FullSelectorArgument="&lt;webctrl aaname='109.02' parentid='knowledge-finance-wholepage__entity-summary' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='knowledge-finance-wholepage__entity-summary' tag='SPAN' type='' class='IsqQVc NprOob wT3VGc' /&gt;" Guid="05cd7498-654d-423a-9a1e-81bed4c3ca70" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='amazon stock price - Google Search' /&gt;" SearchSteps="FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9f61f82d5b3d1006e49f405d014cbd7d.png" xmlns="">0N20koA0OjEicxVj956Rdcw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
